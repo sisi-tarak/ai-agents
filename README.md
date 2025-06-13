@@ -1,5 +1,5 @@
 # 🌐 AI Agents Demystified: Complete Guide
-<br/>
+
 
 ## **🧭 Introduction**
 
@@ -8,7 +8,7 @@
  AI tools, agentic workflows
 
 <br/>
-<br/>
+
 
 ## 🧩 Level 1: Large Language Models (LLMs)
 
@@ -29,7 +29,7 @@
 - LLMs are passive – they wait for your prompt.
 
 <br/>
-<br/>
+
 
 ## 🛠️ Level 2: AI Workflows
 
@@ -56,7 +56,7 @@
 - **RAG (Retrieval-Augmented Generation)** is a common AI workflow type where the model first *retrieves data* from your documents or sources and then *responds*.
 
 <br/>
-<br/>
+
 
 ## 🤖 Level 3: AI Agents
 
@@ -82,11 +82,11 @@
 
 ### 🧠 Agent Traits
 
-| Trait       | Description |
-|-------------|-------------|
-| Reason      | Think like a strategist |
-| Act         | Execute like an assistant |
-| Iterate     | Refine like a critic |
+  | Trait       | Description |
+  |-------------|-------------|
+  | Reason      | Think like a strategist |
+  | Act         | Execute like an assistant |
+  | Iterate     | Refine like a critic |
 
 ### ⭐ Real Agent Demo
 - Example: Andrew Ng’s vision-based AI agent finds skiing scenes in videos autonomously.
@@ -95,13 +95,13 @@
 
 ## 🔍 Key Terminologies Simplified
 
-| Term  | Meaning |
-|-------|---------|
-| **LLM** | Large Language Model like GPT, Gemini |
-| **Workflow** | Step-by-step automation created by humans |
-| **Agent** | AI that decides, acts, and iterates |
-| **RAG** | Retrieval-Augmented Generation |
-| **ReAct** | Reason + Act → Agent framework |
+  | Term  | Meaning |
+  |-------|---------|
+  | **LLM** | Large Language Model like GPT, Gemini |
+  | **Workflow** | Step-by-step automation created by humans |
+  | **Agent** | AI that decides, acts, and iterates |
+  | **RAG** | Retrieval-Augmented Generation |
+  | **ReAct** | Reason + Act → Agent framework |
 
 <br/>
 
@@ -119,17 +119,17 @@
 - Plan day using Google Calendar + weather updates
 - Suggest meals based on what's in your fridge (via barcode scan)
 
----
+<br/>
 
 ## 📊 Summary Table
 
-| Level     | Who Decides? | Actions Possible               | Limitations |
-|-----------|--------------|--------------------------------|-------------|
-| Level 1 - LLMs | Human       | Text generation, Q&A            | No real-time or personal data |
-| Level 2 - Workflow | Human       | Multi-step task automation       | Can’t adapt to new logic |
-| Level 3 - Agents | AI          | Think, Act, Improve             | Complex to design but scalable |
+  | Level     | Who Decides? | Actions Possible               | Limitations |
+  |-----------|--------------|--------------------------------|-------------|
+  | Level 1 - LLMs | Human       | Text generation, Q&A            | No real-time or personal data |
+  | Level 2 - Workflow | Human       | Multi-step task automation       | Can’t adapt to new logic |
+  | Level 3 - Agents | AI          | Think, Act, Improve             | Complex to design but scalable |
 
----
+<br/>
 
 ## 🧠 Final Thoughts
 
@@ -139,7 +139,4 @@
 
 🚀 Start simple → First create workflows → Then evolve into full agents using **ReAct** patterns.
 
----
 
-🔗 **Made for Content Creators, Educators & Founders**  
-💬 DM me for a full Notion/Video-ready version!

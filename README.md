@@ -62,23 +62,23 @@
 
 ### 📌 Explanation
 
-- An **AI agent** is not just a set of rules. It can:
-  1. **Reason** – Decide what needs to be done.
-  2. **Act** – Use tools, APIs.
-  3. **Iterate** – Criticize its own outputs and improve.
+   An **AI agent** is not just a set of rules. It can:
+   1. **Reason** – Decide what needs to be done.
+   2. **Act** – Use tools, APIs.
+   3. **Iterate** – Criticize its own outputs and improve.
 
 ### 🔁 Transformation
 
-> ❗ Turning a workflow into an agent means shifting the decision-making from YOU → AI.
+-  Turning a workflow into an agent means shifting the decision-making from YOU → AI.
 
 ### 💡 Real Example
 
-- Task: Generate daily social posts based on news articles.
-- AI Agent does:
-  - Fetches news links (reasoning it's better than pasting full articles).
-  - Summarizes with Perplexity.
-  - Writes social copy with Claude.
-  - Adds a second LLM to **critique** and **improve** the post automatically.
+  - Task: Generate daily social posts based on news articles.
+  - AI Agent does:
+    - Fetches news links (reasoning it's better than pasting full articles).
+    - Summarizes with Perplexity.
+    - Writes social copy with Claude.
+    - Adds a second LLM to **critique** and **improve** the post automatically.
 
 ### 🧠 Agent Traits
 
@@ -89,10 +89,9 @@
 | Iterate     | Refine like a critic |
 
 ### ⭐ Real Agent Demo
+- Example: Andrew Ng’s vision-based AI agent finds skiing scenes in videos autonomously.
 
-> Example: Andrew Ng’s vision-based AI agent finds skiing scenes in videos autonomously.
-
----
+<br/>
 
 ## 🔍 Key Terminologies Simplified
 
@@ -104,7 +103,7 @@
 | **RAG** | Retrieval-Augmented Generation |
 | **ReAct** | Reason + Act → Agent framework |
 
----
+<br/>
 
 ## 🧪 Real-Time Use Cases
 

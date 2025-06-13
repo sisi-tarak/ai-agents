@@ -40,11 +40,11 @@
 
 ### 💡 Real Example
 
-> You create a flow like this:
-1. Add article links in Google Sheets.
-2. Use Perplexity to summarize.
-3. Use Claude to generate a LinkedIn post.
-4. Schedule to post daily at 8 AM.
+   You create a flow like this:
+  1. Add article links in Google Sheets.
+  2. Use Perplexity to summarize.
+  3. Use Claude to generate a LinkedIn post.
+  4. Schedule to post daily at 8 AM.
 
 ### ⚠️ Limitation
 
@@ -53,9 +53,10 @@
 
 ### 💡 Bonus Tip
 
-**RAG (Retrieval-Augmented Generation)** is a common AI workflow type where the model first *retrieves data* from your documents or sources and then *responds*.
+- **RAG (Retrieval-Augmented Generation)** is a common AI workflow type where the model first *retrieves data* from your documents or sources and then *responds*.
 
----
+<br/>
+<br/>
 
 ## 🤖 Level 3: AI Agents
 

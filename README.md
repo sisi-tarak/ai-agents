@@ -28,7 +28,8 @@
 - LLMs don’t have access to private/internal info (like your calendar).
 - LLMs are passive – they wait for your prompt.
 
----
+<br/>
+<br/>
 
 ## 🛠️ Level 2: AI Workflows
 
